@@ -17,3 +17,4 @@ Desenvolvimento de modelos quimiométricos (PCA/HCA, KNN e SVM) aplicados a espe
 - **Quimiometria**: PCA, HCA, KNN, SVM, ADASYN
 - **Editor**: VS Code
 
+
