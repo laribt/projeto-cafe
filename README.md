@@ -15,5 +15,5 @@ Desenvolvimento de modelos quimiométricos (PCA/HCA, KNN e SVM) aplicados a espe
 - **Linguagem**: Python (3.10+)
 - **Ciência de Dados**: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
 - **Quimiometria**: PCA, HCA, KNN, SVM, ADASYN
-
+- **Editor**: VS Code
 
