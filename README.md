@@ -1,4 +1,4 @@
-## Projeto café
+## Projeto 
 Modelagem de dados para autenticação de cafés do Cerrado Mineiro: avaliação sazonal e diferenciação geográfica
 
 ## ☕️ Autenticação de café
