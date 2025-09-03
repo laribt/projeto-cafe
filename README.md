@@ -17,16 +17,12 @@ Desenvolvimento de modelos quimiométricos (PCA/HCA, KNN e SVM) aplicados a espe
 - **Quimiometria**: PCA, HCA, KNN, SVM, ADASYN
 - **Editor**: VS Code
 
-## 📊 Resultados 
 
-- PCA evidencia tendência de separação entre regiões.
-- KNN + ADASYN melhora especificidade sem perder demasiada sensibilidade.
-- SVM apresenta boa generalização no conjunto de teste.
+## 💡 O que aprendi
 
-## 💡 Conclusões
-
-- A integrar Excel + Python (com pandas/openpyxl) em um fluxo reprodutível.
-- Que pré-processamento (centragem/normalização e seleção de faixa) muda o jogo em espectroscopia.
-- PCA/HCA direciona decisões antes do supervisionado (KNN/SVM).
-- É mportantede tratar desbalanceamento (e validar no teste para não superestimar). 
-
+- Manipulação de dados em Excel com Python/pandas
+- Pré-processamento e normalização de espectros (centragem, SNV, seleção de faixas)
+- Modelagem exploratória (PCA/HCA) e supervisionada (KNN, SVM)
+- Balanceamento de classes com ADASYN
+- Avaliação de desempenho com métricas e matrizes de confusão
+- Organização de projeto em scripts modulares, uso de requirements.txt e Git/GitHub
